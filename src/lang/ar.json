@@ -1,0 +1,6 @@
+{
+  "app.header" : "قم بتحرير <code>{fileName} </code> وحفظها لإعادة التحميل" ,
+  "app.content" : "تعلم React" ,
+  "app.channel.plug": " Vite + React يقدم لك البرنامج التعليمي {blogName}",
+  "app.counter": " العد"
+}
