@@ -27,6 +27,7 @@ function App(props) {
                 day = 'numeric'
                 weekday = 'long'
             />
+            <h1>Test vitest</h1>
         </div>
     )
 }
